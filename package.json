@@ -1,0 +1,21 @@
+{
+  "name": "express_server",
+  "version": "1.0.0",
+  "description": "Using Express as static files server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "static",
+    "server"
+  ],
+  "author": "Owais Majid <owais.majid@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3"
+  }
+}
